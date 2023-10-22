@@ -1,5 +1,5 @@
 zara-september
 -belajar javascript
 -belajar github
--belajar cpns
 -belajar terus
+-harus bisa
