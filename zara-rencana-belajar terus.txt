@@ -1,4 +1,6 @@
 rencana belajar terus
 belajar javascript
+*JS Syntax
+*JS Variable
 belajar python
 belajar sql
